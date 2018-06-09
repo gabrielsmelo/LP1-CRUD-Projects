@@ -1,0 +1,29 @@
+2
+3
+3
+Estado1
+Cidade1
+Bairro1
+Logradouro: Rua1
+Numero: 1
+Bairro: Bairro1
+Estado: Estado1
+Cidade: Cidade1
+CEP: CEP1
+Area: 123.000000
+Valor: R$ 100.000000
+Valor do Aluguel: R$ 100.000000
+
+1
+3
+123
+123
+123
+Logradouro: Rua
+Numero: 123
+Bairro: 123
+Estado: 123
+Cidade: 123
+CEP: 12
+Area: 123.000000
+Valor do aluguel: R$ 1.000000
