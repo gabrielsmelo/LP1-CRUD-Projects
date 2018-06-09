@@ -2,4 +2,5 @@
 Projeto de LP1 na Universidade Federal da Paraíba, do curso de Engenharia de Computação.
 
 This project is a Create, Read, Update, Delete (CRUD) Imobiliary program.
-Was written in C Language.
+One was written in C Language.
+The another, we used C++ Language.
